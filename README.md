@@ -11,7 +11,7 @@
 - Javascript, Jquery
 - Oracle, MyBatis
 - Corvoda, Flutter
-- SVN, Github, Zeplin
+- SVN, Git, Zeplin
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJiH-yun&show_icons=true)  
 
